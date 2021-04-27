@@ -1,0 +1,7 @@
+print("    Welcome to Love Story")
+print("-------------------------------")
+print("Apple   ", 3," ",30,"THB - ",3*30,"THB")
+print("Banana  ", 3," ",10,"THB - ",3*10,"THB")
+print("-------------------------------")
+print("Total  :",90+30,"THB")
+print("Thank You : Love Story")
